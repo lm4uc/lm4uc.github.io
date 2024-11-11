@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://ai.stanford.edu/~sttruong/lm4uc/sitemap.xml
+Sitemap: https://lm4uc.github.io/sitemap.xml
