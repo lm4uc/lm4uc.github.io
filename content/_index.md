@@ -28,7 +28,9 @@ This workshop will explore cutting-edge research and methodologies to develop an
 - **Pre-reviewed (ARR) Submission Deadline**: Febuary 20, 2025
 - **Notification of Acceptance**: March 01, 2025
 - **Workshop Date**: May 04, 2025
-- **Submission Format**: Papers should be formatted according to [ARR guidelines](https://aclrollingreview.org/cfp#paper-submission-information).
+- **Submission Format**: We welcome long papers (8 pages) and short papers (4 pages), excluding references. Submissions are double-blind and must follow the [ARR guidelines](https://aclrollingreview.org/cfp#paper-submission-information).
+
+We accept both archival and non-archival submissions. Accepted papers that choose the archival track will be published in the NAACL workshop proceedings and archived on the workshop website. For inquiries, please contact the workshop organizers through this email: **lm4uc.organizers (at) gmail.com**.
 
 We look forward to contributions that drive innovation and inclusivity in NLP, supporting underserved communities globally. 
 
