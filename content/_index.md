@@ -24,8 +24,8 @@ We invite full and short papers on the following (but not limited to) topics:
 This workshop will explore cutting-edge research and methodologies to develop and deploy LLMs for underserved communities, from training to deployment. By gathering insights from AI governance, cultural NLP, and sustainable NLP, we aim to create inclusive, impactful NLP technologies.
 
 ## Submission Details
-- **Submission Deadline**: January 30, 2025
-- **Pre-reviewed (ARR) Submission Deadline**: Febuary 20, 2025
+- **Submission Deadline**: <s>January 30, 2025</s> February 7, 2025
+- **Pre-reviewed (ARR) Submission Deadline**: February 20, 2025
 - **Notification of Acceptance**: March 01, 2025
 - **Workshop Date**: May 04, 2025
 - **Submission Format**: We welcome long papers (8 pages) and short papers (4 pages), excluding references. Submissions are double-blind and must follow the [ARR guidelines](https://aclrollingreview.org/cfp#paper-submission-information).
