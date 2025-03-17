@@ -46,11 +46,13 @@ We look forward to contributions that drive innovation and inclusivity in NLP, s
         ["Timothy Baldwin","MBZUAI"], 
         ["Timnit Gebru","Google"],
         ["Pratyusha Kalluri","Stanford"],
+        ["David Ifeoluwa Adelani", "McGill"],
     ],
     urls = [
         "https://mbzuai.ac.ae/study/faculty/timothy-baldwin/",
         "https://en.wikipedia.org/wiki/Timnit_Gebru",
         "https://pkalluri.github.io/",
+        "https://dadelani.github.io/",
     ],
     image_dir = "organizers",
     narrow = true) }}
@@ -109,14 +111,14 @@ We look forward to contributions that drive innovation and inclusivity in NLP, s
 
 
 
-<!-- # Accepted Papers
+# Accepted Papers
 
 {{ table(
     data = "papers.csv", 
-    button_names = ["paper","poster"], 
-    button_data_columns = [3,4], 
-    button_output_columns = [1,1]) }}
+    button_names = ["Paper"], 
+    button_data_columns = [4], 
+    button_output_columns = [1]) }}
 
 
 
-{{ new_block() }} -->
+{{ new_block() }}
