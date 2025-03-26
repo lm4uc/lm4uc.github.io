@@ -45,7 +45,7 @@ We look forward to contributions that drive innovation and inclusivity in NLP, s
     text = [
         ["Timothy Baldwin","MBZUAI"], 
         ["Timnit Gebru","Google"],
-        ["Pratyusha Kalluri","Stanford"],
+        ["Pratyusha Ria Kalluri","Stanford"],
         ["David Ifeoluwa Adelani", "McGill"],
         ["Genta Indra Winata", "Capital One"],
     ],
@@ -100,12 +100,12 @@ We look forward to contributions that drive innovation and inclusivity in NLP, s
 | 09:00am - 09:30am | (In-person) LM4UC Opening Remark: Alice Oh                          |
 | 09:30am - 10:00am | (In-person) LM4UC Keynote 1: David Ifeoluwa Adelani                 |
 | 10:00am - 10:30am | (Virtual) LM4UC Keynote 2: Timnit Gebru                             |
-| 10:30am - 11:00am | (Hybrid) Structured Networking Event + Lunch Break                  |
+| 10:30am - 11:00am | (Hybrid) Structured Networking Event + Tea Break                    |
 | 11:00am - 11:30am | (In-person) LM4UC Keynote 3: Genta Winata                           |
-| 11:30am - 12:00pm | (Virtual) LM4UC Keynote 4: Tim Baldwin                              |
-| 12:00pm - 12:30pm | (Virtual) LM4UC Keynote 5: Ria Kalluri                              |
+| 11:30am - 12:00pm | (Virtual) LM4UC Keynote 4: Timothy Baldwin                          |
+| 12:00pm - 12:30pm | (Virtual) LM4UC Keynote 5: Pratyusha Ria Kalluri                    |
 | 12:30pm - 01:00pm | (Hybrid) Structured Networking Event + Lunch Break                  |
-| 01:00pm - 01:50pm | (Hybrid) LM4UC Panel Discussion monitored by Angelina Wang          |
+| 01:00pm - 01:50pm | (Hybrid) LM4UC Panel Discussion by Angelina Wang                    |
 | 01:50pm - 03:30pm | (Hybrid) Student Oral                                               |
 | 03:30pm - 04:30pm | (Hybrid) Poster Session                                             |
 | 04:30pm - 05:00pm | (Virtual) LM4UC Conclusion and Award: Sanmi Koyejo                  |
