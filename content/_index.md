@@ -47,12 +47,14 @@ We look forward to contributions that drive innovation and inclusivity in NLP, s
         ["Timnit Gebru","Google"],
         ["Pratyusha Kalluri","Stanford"],
         ["David Ifeoluwa Adelani", "McGill"],
+        ["Genta Indra Winata", "Capital One"],
     ],
     urls = [
         "https://mbzuai.ac.ae/study/faculty/timothy-baldwin/",
         "https://en.wikipedia.org/wiki/Timnit_Gebru",
         "https://pkalluri.github.io/",
         "https://dadelani.github.io/",
+        "https://gentawinata.com/",
     ],
     image_dir = "organizers",
     narrow = true) }}
@@ -93,17 +95,20 @@ We look forward to contributions that drive innovation and inclusivity in NLP, s
 
 # Schedule
 
-| Time             | Event                        |
-| ---------------- | ---------------------------- |
-| 09:00am - 09:30am | Opening: Alice Oh           |
-| 09:30am - 10:30am | Keynote                     |
-| 10:30am - 11:30am | Coffee / Networking Break   |
-| 11:30am - 12:30pm | Panel Discussion 1          |
-| 12:30pm - 01:30pm | Lunch Break                 |
-| 01:30pm - 03:00pm | Oral Presentation           |
-| 03:00pm - 04:00pm | Panel Discussion 2          |
-| 04:00pm - 05:00pm | Poster Session              |
-| 05:00pm - 05:30pm | Award & Conclusion: Sanmi Koyejo |
+| Time              | Event                                                               |
+|-------------------|---------------------------------------------------------------------|
+| 09:00am - 09:30am | (In-person) LM4UC Opening Remark: Alice Oh                          |
+| 09:30am - 10:00am | (In-person) LM4UC Keynote 1: David Ifeoluwa Adelani                 |
+| 10:00am - 10:30am | (Virtual) LM4UC Keynote 2: Timnit Gebru                             |
+| 10:30am - 11:00am | (Hybrid) Structured Networking Event + Lunch Break                  |
+| 11:00am - 11:30am | (In-person) LM4UC Keynote 3: Genta Winata                           |
+| 11:30am - 12:00pm | (Virtual) LM4UC Keynote 4: Tim Baldwin                              |
+| 12:00pm - 12:30pm | (Virtual) LM4UC Keynote 5: Ria Kalluri                              |
+| 12:30pm - 01:00pm | (Hybrid) Structured Networking Event + Lunch Break                  |
+| 01:00pm - 01:50pm | (Hybrid) LM4UC Panel Discussion monitored by Angelina Wang          |
+| 01:50pm - 03:30pm | (Hybrid) Student Oral                                               |
+| 03:30pm - 04:30pm | (Hybrid) Poster Session                                             |
+| 04:30pm - 05:00pm | (Virtual) LM4UC Conclusion and Award: Sanmi Koyejo                  |
 
 
 
