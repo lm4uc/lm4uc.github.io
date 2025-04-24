@@ -120,9 +120,9 @@ We look forward to contributions that drive innovation and inclusivity in NLP, s
 
 {{ table(
     data = "papers.csv", 
-    button_names = ["Paper"], 
-    button_data_columns = [4], 
-    button_output_columns = [1]) }}
+    button_names = ["Paper", "Video"], 
+    button_data_columns = [4, 5],
+    button_output_columns = [1, 1]) }}
 
 
 
