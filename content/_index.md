@@ -36,7 +36,7 @@ We look forward to contributions that drive innovation and inclusivity in NLP, s
 
 ## Online Participation
 We have setup the Gathertown platform for online participation. You can join the workshop using the link below:
-[Join Gathertown](https://app.gather.town/invite?token=ILPoB62bSBWo3jeqBgdt)
+[Join Gathertown](https://app.gather.town/app/vD0ahbesX3x82ay4/NAACL%202025%20Virtual%20Day)
 
 {{ new_block() }}
 
