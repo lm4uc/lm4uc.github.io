@@ -34,6 +34,9 @@ We accept both archival and non-archival submissions. Accepted papers that choos
 
 We look forward to contributions that drive innovation and inclusivity in NLP, supporting underserved communities globally. 
 
+## Online Participation
+We have setup the Gathertown platform for online participation. You can join the workshop using the link below:
+[Join Gathertown](https://app.gather.town/invite?token=ILPoB62bSBWo3jeqBgdt)
 
 {{ new_block() }}
 
