@@ -102,7 +102,7 @@ We have setup the Gathertown platform for online participation. You can join the
 |-------------------|---------------------------------------------------------------------|
 | 09:00am - 09:30am | (In-person) LM4UC Opening Remark: Alice Oh                          |
 | 09:30am - 10:00am | (In-person) LM4UC Keynote 1: David Ifeoluwa Adelani                 |
-| 10:00am - 10:30am | (Virtual) LM4UC Keynote 2: Cynthia Bailey                             |
+| 10:00am - 10:30am | (In-person) LM4UC Keynote 2: Cynthia Bailey                             |
 | 10:30am - 11:00am | (Hybrid) Structured Networking Event + Tea Break                    |
 | 11:00am - 11:30am | (In-person) LM4UC Keynote 3: Genta Winata                           |
 | 11:30am - 12:00pm | (Virtual) LM4UC Keynote 4: Timothy Baldwin                          |
