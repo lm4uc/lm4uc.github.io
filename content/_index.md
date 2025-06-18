@@ -38,6 +38,9 @@ We look forward to contributions that drive innovation and inclusivity in NLP, s
 We have setup the Gathertown platform for online participation. You can join the workshop using the link below:
 [Join Gathertown](https://app.gather.town/app/vD0ahbesX3x82ay4/NAACL%202025%20Virtual%20Day)
 
+## Proceedings
+The *Proceedings of the 1st Workshop on Language Models for Underserved Communities* (LM4UC 2025) is published on the [ACL Anthology](https://aclanthology.org/2025.lm4uc-1.0/).
+
 {{ new_block() }}
 
 
@@ -117,7 +120,13 @@ We have setup the Gathertown platform for online participation. You can join the
 
 {{ new_block() }}
 
+# Awards
 
+**Best Paper Award**: [Enhancing Small Language Models for Cross-Lingual GeneralizedZero-Shot Classification with Soft Prompt Tuning](https://aclanthology.org/2025.lm4uc-1.8/) by Fred Philippy, Siwen Guo, Cedric Lothritz, Jacques Klein, Tegawendé F. Bissyandé
+
+**Honorable Mention**: [Direct Preference Optimization With Unobserved Preference Heterogeneity](https://arxiv.org/abs/2405.15065) by Keertana Chidambaram, Karthik Vinay Seetharaman, Vasilis Syrgkanis
+
+{{ new_block() }}
 
 # Accepted Papers
 
