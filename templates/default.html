@@ -17,7 +17,7 @@
         <link rel="apple-touch-icon" href="{{ get_url(path = 'apple-touch-icon.png') }}" type="image/png">
         {% endif %}
 
-        <title>{{ this.title }}</title>
+        <title>{% if this.extra.tagline %}{{ this.extra.tagline }}: {% endif %}{{ this.title }}</title>
 
         {{ seo::seo(page = this) }}
 

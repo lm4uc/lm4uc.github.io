@@ -21,19 +21,19 @@
 <header class="bg-odd{% if config.extra.banner %} bg-{{ config.extra.banner.extension }} bg-{{ config.extra.banner.size }}{%if config.extra.banner.no_repeat %} bg-no-repeat{% endif %}{% endif %}">
     <div class="container d-flex justify-center">
         <div class="header text-center px-3 py-4{% if config.extra.banner.fade %} fade{% endif %}">
-            {% if config.extra.title.url %}<a href="{% if config.extra.title.url is string %}{{ config.extra.title.url }}{% else %}{{ get_url(path = '/') }}{% endif %}">{% endif %}
-            <h1 id="home">{% if config.extra.title.tagline %}<span class="tagline h3">{{ config.extra.title.tagline }}</span> {% endif %}{{ config.extra.title.title }}</h1>
-            {% if config.extra.title.url %}</a>{% endif %}
+            {% if this.extra.url %}<a href="{% if this.extra.url is string %}{{ this.extra.url }}{% else %}{{ get_url(path = '/') }}{% endif %}">{% endif %}
+            <h1 id="home">{% if this.extra.tagline %}<span class="tagline h3">{{ this.extra.tagline }}</span> {% endif %}{{ this.title }}</h1>
+            {% if this.extra.url %}</a>{% endif %}
 
-            {% if config.extra.title.subtitles %}
-                {% for subtitle in config.extra.title.subtitles %}
+            {% if this.extra.subtitles %}
+                {% for subtitle in this.extra.subtitles %}
                     <h2 class="h3{% if not loop.last %} mb-2{% endif %}">{{ subtitle }}</h2>
                 {% endfor %}
             {% endif %}
 
-            {% if config.extra.buttons %}
+            {% if this.extra.buttons %}
                 <div class="d-flex justify-center">
-                    {% for button in config.extra.buttons %}
+                    {% for button in this.extra.buttons %}
                         <a class="btn mx-1" href="{{ button.url | safe }}">{{ button.name }}</a>
                     {% endfor %}
                 </div>
