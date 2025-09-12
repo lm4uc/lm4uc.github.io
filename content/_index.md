@@ -10,7 +10,7 @@ extra.buttons = [
 
 ## Call for Papers
 
-Underserved communities often lack adequate access to advanced NLP technologies due to limited linguistic data, insufficient computational resources, or inadequate AI governance frameworks. This gap hinders equitable access to NLP advancements, exacerbating the digital divide. Our workshop aims to address this by fostering a multidisciplinary dialogue around the development of LMs that prioritize cultural sensitivity, resource efficiency, and sustainable AI practices. We invites researchers, practitioners, and policymakers to address challenges and propose innovative solutions for building and deploying language models (LMs) for underserved languages and communities.
+Underserved communities often lack adequate access to advanced natural language processing (NLP) technologies due to limited linguistic data, insufficient computational resources, or inadequate AI governance frameworks. This gap hinders equitable access to NLP advancements, exacerbating the digital divide. Our workshop aims to address this by fostering a multidisciplinary dialogue around the development of language models (LMs) that prioritize cultural sensitivity, resource efficiency, and sustainable AI practices. We invites researchers, practitioners, and policymakers to address challenges and propose innovative solutions for building and deploying language models for underserved languages and communities.
 
 ### Topics of Interest
 
@@ -46,7 +46,7 @@ Papers should be submitted via [OpenReview](https://openreview.net/forum?id=HEl-
 
 ## Contact Us
 
-For inquiries, please contact the workshop organizers: [**lm4uc.organizers@gmail.com**](mailto:lm4uc.organizers@gmail.com)
+For inquiries, please contact the workshop organizers: [**lm4uc.organizers (at) gmail.com**](mailto:lm4uc.organizers@gmail.com)
 
 {{ new_block() }}
 
@@ -91,6 +91,19 @@ For inquiries, please contact the workshop organizers: [**lm4uc.organizers@gmail
 
 {{ new_block() }}
 
+# Program Committee
+
+{{ grid(
+    text = [
+        ["Duc Nguyen", "NUS"]
+    ],
+    urls = [
+        "https://comp.nus.edu.sg/~nqduc/",
+    ],
+    image_dir = "organizers") }}
+
+
+{{ new_block() }}
 
 
 # Schedule
