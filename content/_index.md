@@ -3,7 +3,7 @@ title = "Language Models for Underserved Communities"
 extra.tagline = "AAAI 2026 Workshop"
 extra.subtitles = ["Singapore", "January 26-27, 2026"]
 extra.buttons = [
-    {name="Submit Paper", url="https://openreview.net/forum?id=HEl-POfRu9lx"},
+    {name="Submit Paper", url="https://openreview.net/group?id=AAAI.org/2026/Workshop/LM4UC"},
     {name="LM4UC@2025", url="/2025/"}
 ]
 +++
@@ -42,7 +42,7 @@ We welcome long papers (**8 pages**) and short papers (**4 pages**), excluding r
 Please note that all the deadlines are in **AoE (Anywhere on Earth)** timezone.
 
 ### Submission Link
-Papers should be submitted via [OpenReview](https://openreview.net/forum?id=HEl-POfRu9lx).
+Papers should be submitted via [OpenReview](https://openreview.net/group?id=AAAI.org/2026/Workshop/LM4UC).
 
 ## Contact Us
 
