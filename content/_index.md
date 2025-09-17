@@ -4,6 +4,7 @@ extra.tagline = "AAAI 2026 Workshop"
 extra.subtitles = ["Singapore", "January 26-27, 2026"]
 extra.buttons = [
     {name="Submit Paper", url="https://openreview.net/group?id=AAAI.org/2026/Workshop/LM4UC"},
+    {name="Join Discord", url="https://discord.gg/zyRD9qDS"},
     {name="LM4UC@2025", url="/2025/"}
 ]
 +++
@@ -47,6 +48,8 @@ Papers should be submitted via [OpenReview](https://openreview.net/group?id=AAAI
 ## Contact Us
 
 For inquiries, please contact the workshop organizers: [**lm4uc.organizers (at) gmail.com**](mailto:lm4uc.organizers@gmail.com)
+
+Alternatively, you can reach us via our [**Discord server**](https://discord.gg/zyRD9qDS).
 
 {{ new_block() }}
 
