@@ -4,7 +4,7 @@ extra.tagline = "AAAI 2026 Workshop"
 extra.subtitles = ["Singapore", "January 26-27, 2026"]
 extra.buttons = [
     {name="Submit Paper", url="https://openreview.net/group?id=AAAI.org/2026/Workshop/LM4UC"},
-    {name="Join Discord", url="https://discord.gg/zyRD9qDS"},
+    {name="Join Discord", url="https://discord.gg/wfwXhYUN2W"},
     {name="LM4UC@2025", url="/2025/"}
 ]
 +++
