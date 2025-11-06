@@ -49,7 +49,7 @@ Papers should be submitted via [OpenReview](https://openreview.net/group?id=AAAI
 
 For inquiries, please contact the workshop organizers: [**lm4uc.organizers (at) gmail.com**](mailto:lm4uc.organizers@gmail.com)
 
-Alternatively, you can reach us via our [**Discord server**](https://discord.gg/zyRD9qDS).
+Alternatively, you can reach us via our [**Discord server**](https://discord.gg/wfwXhYUN2W).
 
 {{ new_block() }}
 
