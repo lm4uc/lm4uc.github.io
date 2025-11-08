@@ -1,7 +1,7 @@
 +++
 title = "Language Models for Underserved Communities"
 extra.tagline = "AAAI 2026 Workshop"
-extra.subtitles = ["Singapore", "January 26-27, 2026"]
+extra.subtitles = ["Singapore", "January 27, 2026"]
 extra.buttons = [
     {name="Submit Paper", url="https://openreview.net/group?id=AAAI.org/2026/Workshop/LM4UC"},
     {name="Join Discord", url="https://discord.gg/wfwXhYUN2W"},
@@ -38,7 +38,7 @@ We welcome long papers (**8 pages**) and short papers (**4 pages**), excluding r
 - **Submission deadline**: November 14, 2025
 - **Notification of acceptance**: December 12, 2025
 - **Camera-ready paper due**: January 10, 2026
-- **Workshop dates**: January 26 or 27, 2026 (TBD)
+- **Workshop dates**: January 27, 2026
 
 Please note that all the deadlines are in **AoE (Anywhere on Earth)** timezone.
 
