@@ -98,10 +98,12 @@ Alternatively, you can reach us via our [**Discord server**](https://discord.gg/
 
 {{ grid(
     text = [
-        ["Duc Nguyen", "NUS"]
+        ["Duc Nguyen", "NUS"],
+        ["Fagun Patel", "Meta"],
     ],
     urls = [
         "https://comp.nus.edu.sg/~nqduc/",
+        "https://wwww.linkedin.com/in/fagunpatel98/",
     ],
     image_dir = "organizers") }}
 
