@@ -35,7 +35,7 @@ We invite submissions of full papers, ongoing work, position papers, and survey 
 We welcome long papers (**8 pages**) and short papers (**4 pages**), excluding references. Submissions must follow the [**AAAI 2026 style guidelines**](https://aaai.org/conference/aaai/aaai-26/submission-instructions/).
 
 ### Important Dates
-- **Submission deadline**: November 14, 2025
+- **Submission deadline**: <s>November 14, 2025</s> November 16, 2025
 - **Notification of acceptance**: December 12, 2025
 - **Camera-ready paper due**: January 10, 2026
 - **Workshop dates**: January 27, 2026
@@ -56,12 +56,15 @@ Alternatively, you can reach us via our [**Discord server**](https://discord.gg/
 
 
 # List of Speakers
-[TBD]
 
 {{ grid(
     text = [
+        ["Simon Chesterman","NUS | AI Singapore"], 
+        ["Jian Gang Ngui","AI Singapore"],
     ],
     urls = [
+        "https://law.nus.edu.sg/people/simon-chesterman/",
+        "https://www.linkedin.com/in/jian-gang-ngui/",
     ],
     image_dir = "organizers",
     narrow = true) }}
@@ -79,6 +82,8 @@ Alternatively, you can reach us via our [**Discord server**](https://discord.gg/
         ["Sang Truong", "Stanford"],
         ["Sarah Luger", "MLCommons"],
         ["Rafael Mosquera", "MLCommons"],
+        ["Duc Nguyen", "NUS"],
+        ["Fagun Patel", "Meta"],
         ["Tracy Navichoque", "Stanford"],
         ["Sanmi Koyejo", "Stanford"],
     ],
@@ -86,24 +91,10 @@ Alternatively, you can reach us via our [**Discord server**](https://discord.gg/
         "https://ai.stanford.edu/~sttruong/",
         "https://www.linkedin.com/in/sarahluger/",
         "https://www.linkedin.com/in/rafael-mosquera",
-        "https://hai.stanford.edu/people/tracy-navichoque",
-        "https://cs.stanford.edu/~sanmi/",
-    ],
-    image_dir = "organizers") }}
-
-
-{{ new_block() }}
-
-# Program Committee
-
-{{ grid(
-    text = [
-        ["Duc Nguyen", "NUS"],
-        ["Fagun Patel", "Meta"],
-    ],
-    urls = [
         "https://comp.nus.edu.sg/~nqduc/",
         "https://www.linkedin.com/in/fagunpatel98/",
+        "https://hai.stanford.edu/people/tracy-navichoque",
+        "https://cs.stanford.edu/~sanmi/",
     ],
     image_dir = "organizers") }}
 
