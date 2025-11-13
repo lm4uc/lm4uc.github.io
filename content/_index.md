@@ -83,7 +83,7 @@ Alternatively, you can reach us via our [**Discord server**](https://discord.gg/
         ["Sarah Luger", "MLCommons"],
         ["Rafael Mosquera", "MLCommons"],
         ["Duc Nguyen", "NUS"],
-        ["Fagun Patel", "Meta"],
+        ["Fagun Patel", "Stanford"],
         ["Francesca Vera", "Stanford"],
         ["Tracy Navichoque", "Stanford"],
         ["Sanmi Koyejo", "Stanford"],
