@@ -35,7 +35,7 @@ We invite submissions of full papers, ongoing work, position papers, and survey 
 We welcome long papers (**8 pages**) and short papers (**4 pages**), excluding references. Submissions must follow the [**AAAI 2026 style guidelines**](https://aaai.org/conference/aaai/aaai-26/submission-instructions/).
 
 ### Important Dates
-- **Submission deadline**: <s>November 14, 2025</s> November 16, 2025
+- **Submission deadline**: <s>November 14, 2025</s> November 20, 2025
 - **Notification of acceptance**: December 12, 2025
 - **Camera-ready paper due**: January 10, 2026
 - **Workshop dates**: January 27, 2026
