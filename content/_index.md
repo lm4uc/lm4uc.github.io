@@ -53,7 +53,30 @@ Alternatively, you can reach us via our [**Discord server**](https://discord.gg/
 
 {{ new_block() }}
 
+# Shared Task: AI Measurement for the Public Interest
 
+In this year, we are excited to announce a shared task on "AI Measurement for the Public Interest," organized as part of the Language Models for Underserved Communities (LM4UC) workshop at AAAI 2026. The shared task aims to foster the development of evaluation methodologies and infrastructures that prioritize the needs of underserved communities, focusing on context-aware and institutionally grounded measurement practices.
+
+This shared task invites participants to design and prototype evaluation workflows tailored to underserved linguistic and cultural contexts. The focus is not on optimizing model performance, but on developing measurement infrastructures that reflect how institutions, researchers, and communities actually assess and deploy language technologies under varied resource, governance, and environmental constraints. The task is organized around three complementary layers of an evaluation ecosystem:
+
+1. **AI Evaluation Infrastructure and Stewardship** — *Where and how evaluation is conducted.* This includes workflows that enable local institutions to run assessments, control access to evaluation assets, and maintain their own scoring and deployment environments.
+2. **AI Measurement Design** — *What is being measured and how it is operationalized.* This includes defining new evaluation dimensions, benchmarks, scoring criteria, and documentation practices that capture capabilities relevant to local use cases.
+3. **AI Downstream Impact Assessment** — *How system behavior varies across populations, domains, or deployment settings.* This includes methods for quantifying performance variation, robustness, or utility across communities and identifying areas needing further capability development.
+
+These layers together support end-to-end evaluation: designing the evaluation environment, specifying meaningful constructs, and analyzing performance in real deployments. Submissions may address any layer independently or propose workflows that integrate multiple layers. The shared task welcomes contributions such as datasets, protocols, analysis pipelines, benchmark definitions, evaluation software, and institutional frameworks. Submissions will be evaluated on clarity, methodological rigor, practical feasibility, and relevance to settings where existing benchmark infrastructure is limited or mismatched to local priorities. This initiative reflects LM4UC’s broader goal of advancing scalable, context-aware measurement infrastructures that support the long-term development of language technologies beyond traditional benchmark settings.
+
+## Track 1: AI Evaluation Infrastructure & Stewardship
+This track focuses on designing evaluation workflows that can be operated by local institutions rather than relying on centralized infrastructure. Submissions may include device-side evaluation, federated scoring, offline test packages, access-controlled scoring interfaces, or procedures for maintaining and updating evaluation assets over time. We are looking for clear and feasible mechanisms that allow organizations to run evaluations, control access to evaluation artifacts, and adapt workflows to their institutional constraints. Deliverables include, but are not limited to, a process card or documentation outline describing the evaluation pipeline design and usage constraints, a workflow diagram or prototype demonstrating how the evaluation is run end-to-end, and a short technical memo (about four pages) detailing assumptions, governance structure, and system requirements.
+
+## Track 2: AI Measurement Design
+This track invites new evaluation dimensions that capture aspects of model behavior relevant to real-world use cases not covered by existing benchmarks. Submissions may define cultural, linguistic, functional, domain-specific, communicative, or socio-institutional constructs and propose schemas, item formats, scoring procedures, and documentation standards. We are looking for well-defined constructs with clear motivating use cases, explicit assumptions, and verifiable measurement strategies.  Deliverables include, but are not limited to, a benchmark schema or dataset card describing the construct, example items or evaluation prompts with scoring criteria, and a short write-up (≈4 pages) explaining construct definition, related work, and measurement rationale.
+
+
+## Track 3: AI Downstream Impact Assessment
+This track focuses on methods that assess how model performance varies across contexts—e.g., across languages, institutions, domains, or deployment environments. Submissions may include empirical studies, diagnostic dashboards, error analyses, reliability studies, or pipelines that surface capability gaps. We look for clear methodologies for quantifying variation in behavior across settings and interpreting those differences in terms of practical deployment needs. Deliverables include, but are not limited to, a report or dashboard summarizing comparative results, a reproducible analysis pipeline or evaluation notebook, and a brief documentation (≈4 pages) clarifying assumptions, data sources, and interpretive limitations.
+
+
+{{ new_block() }}
 
 # List of Speakers
 
