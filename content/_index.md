@@ -75,6 +75,13 @@ This track invites new evaluation dimensions that capture aspects of model behav
 ## Track 3: AI Downstream Impact Assessment
 This track focuses on methods that assess how model performance varies across contexts—e.g., across languages, institutions, domains, or deployment environments. Submissions may include empirical studies, diagnostic dashboards, error analyses, reliability studies, or pipelines that surface capability gaps. We look for clear methodologies for quantifying variation in behavior across settings and interpreting those differences in terms of practical deployment needs. Deliverables include, but are not limited to, a report or dashboard summarizing comparative results, a reproducible analysis pipeline or evaluation notebook, and a brief documentation (≈4 pages) clarifying assumptions, data sources, and interpretive limitations.
 
+Please contact us on Discord or email if you are interested in participating in the shared task. We are open via appointment to help facilitate team formation, find resources, and brainstorm ideas with you. 
+
+**Important Dates**
+- Submission deadline via OpenReview: January 9, 2025
+- Feedback release: January 16, 2025
+- Submission portal: OpenReview (TBD)
+
 
 {{ new_block() }}
 
