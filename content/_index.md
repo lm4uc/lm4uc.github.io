@@ -4,6 +4,7 @@ extra.tagline = "AAAI 2026 Workshop"
 extra.subtitles = ["Singapore", "January 27, 2026"]
 extra.buttons = [
     {name="Submit Paper", url="https://openreview.net/group?id=AAAI.org/2026/Workshop/LM4UC"},
+    {name="Submit Shared Task", url="https://openreview.net/group?id=AAAI.org/2026/Workshop/LM4UC_Shared_Task"},
     {name="Join Discord", url="https://discord.gg/wfwXhYUN2W"},
     {name="LM4UC@2025", url="/2025/"}
 ]
@@ -80,7 +81,7 @@ Please contact us on Discord or email if you are interested in participating in 
 **Important Dates**
 - Submission deadline via OpenReview: January 9, 2025
 - Feedback release: January 16, 2025
-- Submission portal: OpenReview (TBD)
+- Submission portal: [OpenReview](https://openreview.net/group?id=AAAI.org/2026/Workshop/LM4UC_Shared_Task)
 
 
 {{ new_block() }}
