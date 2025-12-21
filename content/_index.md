@@ -92,10 +92,12 @@ Please contact us on Discord or email if you are interested in participating in 
     text = [
         ["Simon Chesterman","NUS | AI Singapore"], 
         ["Jian Gang Ngui","AI Singapore"],
+        ["Elina Noor","Carnegie Endowment for International Peace"],
     ],
     urls = [
         "https://law.nus.edu.sg/people/simon-chesterman/",
         "https://www.linkedin.com/in/jian-gang-ngui/",
+        "https://elinanoor.com/",
     ],
     image_dir = "organizers",
     narrow = true) }}
