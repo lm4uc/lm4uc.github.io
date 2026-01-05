@@ -139,7 +139,20 @@ Please contact us on Discord or email if you are interested in participating in 
 
 # Schedule
 
-[TBD]
+| Time              | Session                                   |
+|-------------------|-------------------------------------------|
+| 09:30am – 10:00am | LM4UC Opening Remark                      |
+| 10:00am – 10:30am | Keynote 1: Simon Chesterman               |
+| 10:30am – 11:00am | Keynote 2: Jian Gang Ngui                 |
+| 11:00am – 11:30am | Networking Event + Tea Break              |
+| 11:30am – 12:00am | Keynote 3: Elina Noor                     |
+| 12:00pm – 01:00pm | Lunch Break                               |
+| 01:00pm – 02:00pm | Panel Discussion                          |
+| 02:00pm – 02:30pm | Oral Presentation 1                       |
+| 02:30pm – 03:00pm | Oral Presentation 2                       |
+| 03:00pm – 03:30pm | Oral Presentation 3                       |
+| 03:30pm – 04:30pm | Poster Session                            |
+| 04:30pm – 05:00pm | Conclusion and Award: Sanmi Koyejo        |
 
 
 {{ new_block() }}
