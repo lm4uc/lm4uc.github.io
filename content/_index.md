@@ -141,11 +141,11 @@ Please contact us on Discord or email if you are interested in participating in 
 
 | Time              | Session                                   |
 |-------------------|-------------------------------------------|
-| 09:30am – 10:00am | LM4UC Opening Remark                      |
-| 10:00am – 10:30am | Keynote 1: Simon Chesterman               |
-| 10:30am – 11:00am | Keynote 2: Jian Gang Ngui                 |
-| 11:00am – 11:30am | Networking Event + Tea Break              |
-| 11:30am – 12:00am | Keynote 3: Elina Noor                     |
+| 09:00am – 09:30am | LM4UC Opening Remark                      |
+| 09:30am – 10:00am | Keynote 1: Simon Chesterman               |
+| 10:10am – 10:40am | Keynote 2: Jian Gang Ngui                 |
+| 10:50am – 11:20am | Networking Event + Tea Break              |
+| 11:20am – 12:00pm | Keynote 3: Elina Noor                     |
 | 12:00pm – 01:00pm | Lunch Break                               |
 | 01:00pm – 02:00pm | Panel Discussion                          |
 | 02:00pm – 02:20pm | Oral Presentation 1                       |
