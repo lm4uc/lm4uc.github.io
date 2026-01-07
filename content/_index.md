@@ -148,11 +148,14 @@ Please contact us on Discord or email if you are interested in participating in 
 | 11:30am – 12:00am | Keynote 3: Elina Noor                     |
 | 12:00pm – 01:00pm | Lunch Break                               |
 | 01:00pm – 02:00pm | Panel Discussion                          |
-| 02:00pm – 02:30pm | Oral Presentation 1                       |
-| 02:30pm – 03:00pm | Oral Presentation 2                       |
-| 03:00pm – 03:30pm | Oral Presentation 3                       |
-| 03:30pm – 04:30pm | Poster Session                            |
-| 04:30pm – 05:00pm | Conclusion and Award: Sanmi Koyejo        |
+| 02:00pm – 02:20pm | Oral Presentation 1                       |
+| 02:20pm – 02:40pm | Oral Presentation 2                       |
+| 02:40pm – 03:00pm | Oral Presentation 3                       |
+| 03:00pm – 03:25pm | Poster Session 1                          |
+| 03:25pm – 03:50pm | Poster Session 2                          |
+| 03:50pm – 04:15pm | Poster Session 3                          |
+| 04:15pm – 04:40pm | Poster Session 4                          |
+| 04:40pm – 05:00pm | Awards & Closing Remarks                  |
 
 
 {{ new_block() }}
