@@ -139,23 +139,24 @@ Please contact us on Discord or email if you are interested in participating in 
 
 # Schedule
 
-| Time              | Session                                   |
-|-------------------|-------------------------------------------|
-| 09:00am – 09:30am | LM4UC Opening Remark                      |
-| 09:30am – 10:10am | Keynote 1: Simon Chesterman               |
-| 10:10am – 10:50am | Keynote 2: Jian Gang Ngui                 |
-| 10:50am – 11:20am | Networking Event + Tea Break              |
-| 11:20am – 12:00pm | Keynote 3: Elina Noor                     |
-| 12:00pm – 01:00pm | Lunch Break                               |
-| 01:00pm – 02:00pm | Panel Discussion                          |
-| 02:00pm – 02:20pm | Oral Presentation 1                       |
-| 02:20pm – 02:40pm | Oral Presentation 2                       |
-| 02:40pm – 03:00pm | Oral Presentation 3                       |
-| 03:00pm – 03:25pm | Poster Session 1                          |
-| 03:25pm – 03:50pm | Poster Session 2                          |
-| 03:50pm – 04:15pm | Poster Session 3                          |
-| 04:15pm – 04:40pm | Poster Session 4                          |
-| 04:40pm – 05:00pm | Awards & Closing Remarks                  |
+| Time          | Session                                      |
+|---------------|----------------------------------------------|
+| 09:00 – 09:10 | Opening Remarks                              |
+| 09:10 – 09:50 | Keynote 1 (30 min talk + 10 min Q&A)         |
+| 09:50 – 10:05 | Oral Presentation 1                          |
+| 10:05 – 10:40 | Poster Session 1 (10 posters)                |
+| 10:40 – 10:55 | Break / Coffee                               |
+| 10:55 – 11:35 | Keynote 2 (30 min talk + 10 min Q&A)         |
+| 11:35 – 11:50 | Oral Presentation 2                          |
+| 11:50 – 12:25 | Poster Session 2 (10 posters)                |
+| 12:25 – 01:10 | Lunch Break (45 min)                         |
+| 01:10 – 01:50 | Keynote 3 (30 min talk + 10 min Q&A)         |
+| 01:50 – 02:05 | Oral Presentation 3                          |
+| 02:05 – 02:40 | Poster Session 3 (10 posters)                |
+| 02:40 – 02:55 | Break / Movement                             |
+| 02:55 – 03:55 | Panel Discussion                             |
+| 03:55 – 04:30 | Poster Session 4 (10 posters)                |
+| 04:30 – 05:00 | Awards & Closing Remarks.                    |
 
 
 {{ new_block() }}
