@@ -154,9 +154,9 @@ Please contact us on Discord or email if you are interested in participating in 
 | 01:50 – 02:05 | Oral Presentation 3                          |
 | 02:05 – 02:40 | Poster Session 3 (10 posters)                |
 | 02:40 – 02:55 | Break / Movement                             |
-| 02:55 – 03:55 | Panel Discussion                             |
-| 03:55 – 04:30 | Poster Session 4 (10 posters)                |
-| 04:30 – 05:00 | Awards & Closing Remarks.                    |
-
+| 02:55 – 03:35 | Keynote 4 (30 min talk + 10 min Q&A)         |
+| 03:35 – 04:05 | Panel Discussion                             |
+| 04:05 – 04:40 | Poster Session 4 (10 posters)                |
+| 04:40 – 05:00 | Awards & Closing Remarks.                    |
 
 {{ new_block() }}
