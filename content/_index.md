@@ -160,3 +160,49 @@ Please contact us on Discord or email if you are interested in participating in 
 | 04:40 – 05:00 | Awards & Closing Remarks.                    |
 
 {{ new_block() }}
+
+# Accepted Papers
+
+## Oral Presentations
+
+{{ table(
+    data = "oral.csv", 
+    button_names = ["OpenReview"], 
+    button_data_columns = [3],
+    button_output_columns = [1]) }}
+
+## Poster Presentations
+
+### Session 1
+
+{{ table(
+    data = "poster_1.csv", 
+    button_names = ["OpenReview"], 
+    button_data_columns = [3],
+    button_output_columns = [1]) }}
+
+### Session 2
+
+{{ table(
+    data = "poster_2.csv", 
+    button_names = ["OpenReview"], 
+    button_data_columns = [3],
+    button_output_columns = [1]) }}
+
+### Session 3
+
+{{ table(
+    data = "poster_3.csv", 
+    button_names = ["OpenReview"], 
+    button_data_columns = [3],
+    button_output_columns = [1]) }}
+
+### Session 4
+
+{{ table(
+    data = "poster_4.csv", 
+    button_names = ["OpenReview"], 
+    button_data_columns = [3],
+    button_output_columns = [1]) }}
+
+{{ new_block() }}
