@@ -93,11 +93,13 @@ Please contact us on Discord or email if you are interested in participating in 
         ["Simon Chesterman","NUS | AI Singapore"], 
         ["Jian Gang Ngui","AI Singapore"],
         ["Elina Noor","Carnegie Endowment for International Peace"],
+        ["Tan Zhi Xuan","NUS | A*STAR IHPC"],
     ],
     urls = [
         "https://law.nus.edu.sg/people/simon-chesterman/",
         "https://www.linkedin.com/in/jian-gang-ngui/",
         "https://elinanoor.com/",
+        "https://ztangent.github.io/",
     ],
     image_dir = "organizers",
     narrow = true) }}
@@ -142,19 +144,19 @@ Please contact us on Discord or email if you are interested in participating in 
 | Time          | Session                                      |
 |---------------|----------------------------------------------|
 | 09:00 – 09:10 | Opening Remarks                              |
-| 09:10 – 09:50 | Keynote 1 (30 min talk + 10 min Q&A)         |
+| 09:10 – 09:50 | Keynote 1: Jian Gang Ngui  (30 min talk + 10 min Q&A)  |
 | 09:50 – 10:05 | Oral Presentation 1                          |
 | 10:05 – 10:40 | Poster Session 1 (10 posters)                |
 | 10:40 – 10:55 | Break / Coffee                               |
-| 10:55 – 11:35 | Keynote 2 (30 min talk + 10 min Q&A)         |
+| 10:55 – 11:35 | Keynote 2: Simon Chesterman (30 min talk + 10 min Q&A) |
 | 11:35 – 11:50 | Oral Presentation 2                          |
 | 11:50 – 12:25 | Poster Session 2 (10 posters)                |
 | 12:25 – 01:10 | Lunch Break (45 min)                         |
-| 01:10 – 01:50 | Keynote 3 (30 min talk + 10 min Q&A)         |
+| 01:10 – 01:50 | Keynote 3: Tan Zhi Xuan (30 min talk + 10 min Q&A)     |
 | 01:50 – 02:05 | Oral Presentation 3                          |
 | 02:05 – 02:40 | Poster Session 3 (10 posters)                |
 | 02:40 – 02:55 | Break / Movement                             |
-| 02:55 – 03:35 | Keynote 4 (30 min talk + 10 min Q&A)         |
+| 02:55 – 03:35 | Keynote 4: Elina Noor (30 min talk + 10 min Q&A)       |
 | 03:35 – 04:05 | Panel Discussion                             |
 | 04:05 – 04:40 | Poster Session 4 (10 posters)                |
 | 04:40 – 05:00 | Awards & Closing Remarks.                    |
