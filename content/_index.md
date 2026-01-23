@@ -1,7 +1,7 @@
 +++
 title = "Language Models for Underserved Communities"
 extra.tagline = "AAAI 2026 Workshop"
-extra.subtitles = ["Singapore", "January 27, 2026"]
+extra.subtitles = ["Conference Room G, Singapore EXPO", "January 27, 2026"]
 extra.buttons = [
     {name="Submit Paper", url="https://openreview.net/group?id=AAAI.org/2026/Workshop/LM4UC"},
     {name="Submit Shared Task", url="https://openreview.net/group?id=AAAI.org/2026/Workshop/LM4UC_Shared_Task"},
@@ -90,10 +90,10 @@ Please contact us on Discord or email if you are interested in participating in 
 
 {{ grid(
     text = [
-        ["Simon Chesterman","NUS | AI Singapore"], 
-        ["Jian Gang Ngui","AI Singapore"],
+        ["Prof. Simon Chesterman","NUS | AI Singapore"], 
+        ["Dr. Jian Gang Ngui","AI Singapore"],
         ["Elina Noor","Carnegie Endowment for International Peace"],
-        ["Tan Zhi Xuan","NUS | A*STAR IHPC"],
+        ["Prof. Tan Zhi Xuan","NUS | A*STAR IHPC"],
     ],
     urls = [
         "https://law.nus.edu.sg/people/simon-chesterman/",
@@ -144,16 +144,16 @@ Please contact us on Discord or email if you are interested in participating in 
 | Time          | Session                                      |
 |---------------|----------------------------------------------|
 | 09:00 – 09:10 | Opening Remarks                              |
-| 09:10 – 09:50 | Keynote 1: Jian Gang Ngui  (30 min talk + 10 min Q&A)  |
-| 09:50 – 10:05 | Oral Presentation 1                          |
+| 09:10 – 09:50 | Keynote 1: Dr. Jian Gang Ngui  (30 min talk + 10 min Q&A)  |
+| 09:50 – 10:05 | Oral Presentation 1: Dr. Georgina Curto Rex  |
 | 10:05 – 10:40 | Poster Session 1 (10 posters)                |
 | 10:40 – 10:55 | Break / Coffee                               |
-| 10:55 – 11:35 | Keynote 2: Simon Chesterman (30 min talk + 10 min Q&A) |
-| 11:35 – 11:50 | Oral Presentation 2                          |
+| 10:55 – 11:35 | Keynote 2: Prof. Simon Chesterman (30 min talk + 10 min Q&A) |
+| 11:35 – 11:50 | Oral Presentation 2: Shaun Khoo              |
 | 11:50 – 12:25 | Poster Session 2 (10 posters)                |
 | 12:25 – 01:10 | Lunch Break (45 min)                         |
-| 01:10 – 01:50 | Keynote 3: Tan Zhi Xuan (30 min talk + 10 min Q&A)     |
-| 01:50 – 02:05 | Oral Presentation 3                          |
+| 01:10 – 01:50 | Keynote 3: Prof. Tan Zhi Xuan (30 min talk + 10 min Q&A)     |
+| 01:50 – 02:05 | Oral Presentation 3: Jinju Kim               |
 | 02:05 – 02:40 | Poster Session 3 (10 posters)                |
 | 02:40 – 02:55 | Break / Movement                             |
 | 02:55 – 03:35 | Keynote 4: Elina Noor (30 min talk + 10 min Q&A)       |
