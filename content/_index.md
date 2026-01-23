@@ -121,7 +121,7 @@ Please contact us on Discord or email if you are interested in participating in 
         ["Fagun Patel", "Stanford"],
         ["Francesca Vera", "Stanford"],
         ["Tracy Navichoque", "Stanford"],
-        ["Sanmi Koyejo", "Stanford"],
+        ["Prof. Sanmi Koyejo", "Stanford"],
     ],
     urls = [
         "https://ai.stanford.edu/~sttruong/",
