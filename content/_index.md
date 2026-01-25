@@ -144,22 +144,21 @@ Please contact us on Discord or email if you are interested in participating in 
 | Time          | Session                                      |
 |---------------|----------------------------------------------|
 | 09:00 – 09:10 | Opening Remarks                              |
-| 09:10 – 09:50 | Keynote 1: Dr. Jian Gang Ngui  (30 min talk + 10 min Q&A)  |
+| 09:10 – 09:50 | Keynote 1: Dr. Jian Gang Ngui  (30 min talk + 10 min Q&A)    |
 | 09:50 – 10:05 | Oral Presentation 1: Dr. Georgina Curto Rex  |
-| 10:05 – 10:40 | Poster Session 1 (10 posters)                |
+| 10:05 – 10:40 | Poster Session 1                             |
 | 10:40 – 10:55 | Break / Coffee                               |
 | 10:55 – 11:35 | Keynote 2: Prof. Simon Chesterman (30 min talk + 10 min Q&A) |
 | 11:35 – 11:50 | Oral Presentation 2: Shaun Khoo              |
-| 11:50 – 12:25 | Poster Session 2 (10 posters)                |
+| 11:50 – 12:25 | Poster Session 2                             |
 | 12:25 – 01:10 | Lunch Break (45 min)                         |
 | 01:10 – 01:50 | Keynote 3: Prof. Tan Zhi Xuan (30 min talk + 10 min Q&A)     |
 | 01:50 – 02:05 | Oral Presentation 3: Jinju Kim               |
-| 02:05 – 02:40 | Poster Session 3 (10 posters)                |
-| 02:40 – 02:55 | Break / Movement                             |
-| 02:55 – 03:35 | Keynote 4: Elina Noor (30 min talk + 10 min Q&A)       |
-| 03:35 – 04:05 | Panel Discussion                             |
-| 04:05 – 04:40 | Poster Session 4 (10 posters)                |
-| 04:40 – 05:00 | Awards & Closing Remarks.                    |
+| 02:05 – 02:45 | Keynote 4: Elina Noor (30 min talk + 10 min Q&A)             |
+| 02:44 – 03:00 | Break / Movement                             |
+| 03:00 – 04:00 | Panel Discussion: "Bridging the Gap: Governance, Equity, and Infrastructure for Underserved Communities"                                                   |
+| 04:00 – 04:35 | Poster Session 3                             |
+| 04:45 – 05:00 | Awards & Closing Remarks.                    |
 
 {{ new_block() }}
 
@@ -195,14 +194,6 @@ Please contact us on Discord or email if you are interested in participating in 
 
 {{ table(
     data = "poster_3.csv", 
-    button_names = ["OpenReview"], 
-    button_data_columns = [3],
-    button_output_columns = [1]) }}
-
-### Session 4
-
-{{ table(
-    data = "poster_4.csv", 
     button_names = ["OpenReview"], 
     button_data_columns = [3],
     button_output_columns = [1]) }}
