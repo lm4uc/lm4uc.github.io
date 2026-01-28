@@ -162,6 +162,24 @@ Please contact us on Discord or email if you are interested in participating in 
 
 {{ new_block() }}
 
+# Awards
+
+## Best Paper Awards
+
+**Best Paper Award**: Isaac Lim, Shaun Khoo, Watson Wei Khong Chua, Jessica Foo, Jia Yi Goh, and Roy Ka-Wei Lee, "Safe at the Margins: A General Approach to Safety Alignment in Low-Resource English Languages – A Singlish Case Study".
+
+**Runner-Up Best Paper Awards**:
+- Pierre Le Coz, Jiaan Liu, Debarun Bhattacharjya, Georgina Curto, and Serge Stinckwich, "What Would an LLM Do? Evaluating Policymaking Capabilities of Large Language Models".
+- Jinju Kim, Haeji Jung, Youjeong Roh, Jong Hwan Ko, and David R. Mortensen, "Harnessing Linguistic Dissimilarity for Language Generalization on Unseen Low-Resource Varieties".
+
+## Best Poster Awards
+
+**Best Poster Award**: Filip Trhlík, Andrew Caines, and Paula Buttery, "Bias Dynamics in BabyLMs: Towards a Compute-Efficient Sandbox for Democratising Pre-Training Debiasing".
+
+**Runner-Up Best Poster Awards**: Davide Gabrielli, Simone Sestito, and Iacopo Masi, "Inverse Language Modeling towards Robust and Grounded LLMs".
+
+{{ new_block() }}
+
 # Accepted Papers
 
 ## Oral Presentations
