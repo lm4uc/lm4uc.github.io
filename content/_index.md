@@ -1,50 +1,45 @@
 +++
 title = "Language Models for Underserved Communities"
-extra.tagline = "AAAI 2026 Workshop"
-extra.subtitles = ["Conference Room G, Singapore EXPO", "January 27, 2026"]
+extra.tagline = "IJCAI 2026 Workshop"
+extra.subtitles = ["Bremen", "August 15-21, 2026"]
 extra.buttons = [
-    {name="Submit Paper", url="https://openreview.net/group?id=AAAI.org/2026/Workshop/LM4UC"},
-    {name="Submit Shared Task", url="https://openreview.net/group?id=AAAI.org/2026/Workshop/LM4UC_Shared_Task"},
+    {name="Submit Paper", url=""},
     {name="Join Discord", url="https://discord.gg/wfwXhYUN2W"},
-    {name="LM4UC@2025", url="/2025/"}
+    {name="LM4UC@2025", url="/2025/"},
+    {name="LM4UC@2026", url="/2026/"}
 ]
 +++
 
 ## Call for Papers
 
-Underserved communities often lack adequate access to advanced natural language processing (NLP) technologies due to limited linguistic data, insufficient computational resources, or inadequate AI governance frameworks. This gap hinders equitable access to NLP advancements, exacerbating the digital divide. Our workshop aims to address this by fostering a multidisciplinary dialogue around the development of language models (LMs) that prioritize cultural sensitivity, resource efficiency, and sustainable AI practices. We invites researchers, practitioners, and policymakers to address challenges and propose innovative solutions for building and deploying language models for underserved languages and communities.
+We are excited to announce the 3rd Language Models for Underserved Communities (LM4UC) workshop, co-located with IJCAI 2026. The workshop will take place in person and virtually in Bremen. LM4UC invites researchers, practitioners, and policymakers to address challenges and propose innovative solutions for building and deploying language models (LMs) for underserved languages and communities.
+
+Underserved communities often lack adequate access to advanced NLP technologies due to limited linguistic data, insufficient computational resources, or inadequate AI governance frameworks. This gap hinders equitable access to NLP advancements, exacerbating the digital divide. Our workshop aims to address this by fostering a multidisciplinary dialogue around the development of LMs that prioritize cultural sensitivity, resource efficiency, and sustainable AI practices.
 
 ### Topics of Interest
 
 We invite submissions of full papers, ongoing work, position papers, and survey papers on topics including, but not limited to:
 
-1. **Measuring and Governing AI**  
-   Developing reliable evaluation methods for LMs under constraints in data, compute, and expertise. How can psychometrics, auditing frameworks, or validity theory guide responsible measurement and governance?
-
-2. **Benchmarking and Fairness**  
-   Building inclusive benchmarks and evaluation pipelines that reduce bias, improve cultural and linguistic representation, and ensure fair performance across underserved communities.
-
-3. **Pluralistic Alignment**  
-   Designing approaches for aligning LMs with diverse values, cultural norms, and epistemologies, including participatory and community-driven methods.
-
-4. **Open and Inclusive Infrastructure**  
-   Creating open datasets, benchmarks, models, and participatory platforms that support sustainable and equitable NLP research and deployment.
-
+1. **Benchmark Design & Task Construction:** Benchmarks are no longer passive datasets. They are mechanisms that shape model development. This track focuses on principled, technically grounded benchmark design.
+2. **Alignment & Safety (Multilingual / Global):** Most alignment research assumes Western norms. This track focuses on technically grounded alignment methods that generalize across cultures and languages.
+3. **Agentic Systems in Global Environments:** As LLMs become agents, we need formal evaluation and control in multilingual, multi-cultural environments.
 
 ## Submission Guidelines
 
-We welcome long papers (**8 pages**) and short papers (**4 pages**), excluding references. Submissions must follow the [**AAAI 2026 style guidelines**](https://aaai.org/conference/aaai/aaai-26/submission-instructions/).
+* **Format:** We welcome **long papers** (8 pages) and **short papers** (4 pages), excluding references.
+* **Style:** Submissions must follow the official IJCAI 2026 style guidelines. 
+* **Where to Submit:** Submit your paper via OpenReview: *[TBD]*
 
 ### Important Dates
-- **Submission deadline**: <s>November 14, 2025</s> <s>November 20, 2025</s> November 24, 2025
-- **Notification of acceptance**: December 12, 2025
-- **Camera-ready paper due**: January 10, 2026
-- **Workshop dates**: January 27, 2026
+- **Submission deadline**: TBD
+- **Notification of acceptance**: TBD
+- **Camera-ready paper due**: TBD
+- **Workshop dates**: August 15–17, 2026 (TBD)
 
-Please note that all the deadlines are in **AoE (Anywhere on Earth)** timezone.
+Please note that all the deadlines are 11:59PM in **AoE (Anywhere on Earth)** timezone.
 
 ### Submission Link
-Papers should be submitted via [OpenReview](https://openreview.net/group?id=AAAI.org/2026/Workshop/LM4UC).
+Papers should be submitted via [OpenReview](TBD).
 
 ## Contact Us
 
@@ -54,52 +49,18 @@ Alternatively, you can reach us via our [**Discord server**](https://discord.gg/
 
 {{ new_block() }}
 
-# Shared Task: AI Measurement for the Public Interest
-
-In this year, we are excited to announce a shared task on "AI Measurement for the Public Interest," organized as part of the Language Models for Underserved Communities (LM4UC) workshop at AAAI 2026. The shared task aims to foster the development of evaluation methodologies and infrastructures that prioritize the needs of underserved communities, focusing on context-aware and institutionally grounded measurement practices.
-
-This shared task invites participants to design and prototype evaluation workflows tailored to underserved linguistic and cultural contexts. The focus is not on optimizing model performance, but on developing measurement infrastructures that reflect how institutions, researchers, and communities actually assess and deploy language technologies under varied resource, governance, and environmental constraints. The task is organized around three complementary layers of an evaluation ecosystem:
-
-1. **AI Evaluation Infrastructure and Stewardship** — *Where and how evaluation is conducted.* This includes workflows that enable local institutions to run assessments, control access to evaluation assets, and maintain their own scoring and deployment environments.
-2. **AI Measurement Design** — *What is being measured and how it is operationalized.* This includes defining new evaluation dimensions, benchmarks, scoring criteria, and documentation practices that capture capabilities relevant to local use cases.
-3. **AI Downstream Impact Assessment** — *How system behavior varies across populations, domains, or deployment settings.* This includes methods for quantifying performance variation, robustness, or utility across communities and identifying areas needing further capability development.
-
-These layers together support end-to-end evaluation: designing the evaluation environment, specifying meaningful constructs, and analyzing performance in real deployments. Submissions may address any layer independently or propose workflows that integrate multiple layers. The shared task welcomes contributions such as datasets, protocols, analysis pipelines, benchmark definitions, evaluation software, and institutional frameworks. Submissions will be evaluated on clarity, methodological rigor, practical feasibility, and relevance to settings where existing benchmark infrastructure is limited or mismatched to local priorities. This initiative reflects LM4UC’s broader goal of advancing scalable, context-aware measurement infrastructures that support the long-term development of language technologies beyond traditional benchmark settings.
-
-## Track 1: AI Evaluation Infrastructure & Stewardship
-This track focuses on designing evaluation workflows that can be operated by local institutions rather than relying on centralized infrastructure. Submissions may include device-side evaluation, federated scoring, offline test packages, access-controlled scoring interfaces, or procedures for maintaining and updating evaluation assets over time. We are looking for clear and feasible mechanisms that allow organizations to run evaluations, control access to evaluation artifacts, and adapt workflows to their institutional constraints. Deliverables include, but are not limited to, a process card or documentation outline describing the evaluation pipeline design and usage constraints, a workflow diagram or prototype demonstrating how the evaluation is run end-to-end, and a short technical memo (about four pages) detailing assumptions, governance structure, and system requirements.
-
-## Track 2: AI Measurement Design
-This track invites new evaluation dimensions that capture aspects of model behavior relevant to real-world use cases not covered by existing benchmarks. Submissions may define cultural, linguistic, functional, domain-specific, communicative, or socio-institutional constructs and propose schemas, item formats, scoring procedures, and documentation standards. We are looking for well-defined constructs with clear motivating use cases, explicit assumptions, and verifiable measurement strategies.  Deliverables include, but are not limited to, a benchmark schema or dataset card describing the construct, example items or evaluation prompts with scoring criteria, and a short write-up (≈4 pages) explaining construct definition, related work, and measurement rationale.
-
-
-## Track 3: AI Downstream Impact Assessment
-This track focuses on methods that assess how model performance varies across contexts—e.g., across languages, institutions, domains, or deployment environments. Submissions may include empirical studies, diagnostic dashboards, error analyses, reliability studies, or pipelines that surface capability gaps. We look for clear methodologies for quantifying variation in behavior across settings and interpreting those differences in terms of practical deployment needs. Deliverables include, but are not limited to, a report or dashboard summarizing comparative results, a reproducible analysis pipeline or evaluation notebook, and a brief documentation (≈4 pages) clarifying assumptions, data sources, and interpretive limitations.
-
-Please contact us on Discord or email if you are interested in participating in the shared task. We are open via appointment to help facilitate team formation, find resources, and brainstorm ideas with you. 
-
-**Important Dates**
-- Submission deadline via OpenReview: January 9, 2025
-- Feedback release: January 16, 2025
-- Submission portal: [OpenReview](https://openreview.net/group?id=AAAI.org/2026/Workshop/LM4UC_Shared_Task)
-
-
-{{ new_block() }}
-
 # List of Speakers
 
 {{ grid(
     text = [
-        ["Prof. Simon Chesterman","NUS | AI Singapore"], 
-        ["Dr. Jian Gang Ngui","AI Singapore"],
-        ["Elina Noor","Carnegie Endowment for International Peace"],
-        ["Prof. Tan Zhi Xuan","NUS | A*STAR IHPC"],
+        ["Prof. Preslav Nakov","MBZUAI"], 
+        ["Prof. Iryna Gurevych","TU Darmstadt"],
+        ["Dr. Andreas Haupt","Stanford"]
     ],
     urls = [
-        "https://law.nus.edu.sg/people/simon-chesterman/",
-        "https://www.linkedin.com/in/jian-gang-ngui/",
-        "https://elinanoor.com/",
-        "https://ztangent.github.io/",
+        "https://mbzuai.ac.ae/study/faculty/preslav-nakov/",
+        "https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp",
+        "https://www.andyhaupt.com/",
     ],
     image_dir = "organizers",
     narrow = true) }}
@@ -115,22 +76,18 @@ Please contact us on Discord or email if you are interested in participating in 
 {{ grid(
     text = [
         ["Sang Truong", "Stanford"],
-        ["Sarah Luger", "MLCommons"],
-        ["Rafael Mosquera", "MLCommons"],
-        ["Duc Nguyen", "NUS"],
+        ["Fred Philippy", "University of Luxembourg"],
+        ["Dr. Agathe Balayn", "Microsoft Research"],
         ["Fagun Patel", "Stanford"],
-        ["Francesca Vera", "Stanford"],
-        ["Tracy Navichoque", "Stanford"],
+        ["Duc Nguyen", "NUS"],
         ["Prof. Sanmi Koyejo", "Stanford"],
     ],
     urls = [
         "https://ai.stanford.edu/~sttruong/",
-        "https://www.linkedin.com/in/sarahluger/",
-        "https://www.linkedin.com/in/rafael-mosquera",
-        "https://comp.nus.edu.sg/~nqduc/",
+        "https://philippyfred.com/",
+        "https://agathe-balayn.github.io",
         "https://www.linkedin.com/in/fagunpatel98/",
-        "https://www.linkedin.com/in/ma-francesca-vera/",
-        "https://hai.stanford.edu/people/tracy-navichoque",
+        "https://comp.nus.edu.sg/~nqduc/",
         "https://cs.stanford.edu/~sanmi/",
     ],
     image_dir = "organizers") }}
@@ -141,79 +98,19 @@ Please contact us on Discord or email if you are interested in participating in 
 
 # Schedule
 
-| Time          | Session                                      |
-|---------------|----------------------------------------------|
-| 09:00 – 09:10 | Opening Remarks                              |
-| 09:10 – 09:50 | Keynote 1: Dr. Jian Gang Ngui  (30 min talk + 10 min Q&A)    |
-| 09:50 – 10:05 | Oral Presentation 1: Dr. Georgina Curto Rex  |
-| 10:05 – 10:40 | Poster Session 1                             |
-| 10:40 – 10:55 | Break / Coffee                               |
-| 10:55 – 11:35 | Keynote 2: Prof. Simon Chesterman (30 min talk + 10 min Q&A) |
-| 11:35 – 11:50 | Oral Presentation 2: Shaun Khoo              |
-| 11:50 – 12:25 | Poster Session 2                             |
-| 12:25 – 01:10 | Lunch Break (45 min)                         |
-| 01:10 – 01:50 | Keynote 3: Prof. Tan Zhi Xuan (30 min talk + 10 min Q&A)     |
-| 01:50 – 02:05 | Oral Presentation 3: Jinju Kim               |
-| 02:05 – 02:45 | Keynote 4: Elina Noor (30 min talk + 10 min Q&A)             |
-| 02:44 – 03:00 | Break / Movement                             |
-| 03:00 – 04:00 | Panel Discussion: "Bridging the Gap: Governance, Equity, and Infrastructure for Underserved Communities"                                                   |
-| 04:00 – 04:35 | Poster Session 3                             |
-| 04:45 – 05:00 | Awards & Closing Remarks.                    |
-
-{{ new_block() }}
-
-# Awards
-
-## Best Paper Awards
-
-**Best Paper Award**: Isaac Lim, Shaun Khoo, Watson Wei Khong Chua, Jessica Foo, Jia Yi Goh, and Roy Ka-Wei Lee, "Safe at the Margins: A General Approach to Safety Alignment in Low-Resource English Languages – A Singlish Case Study".
-
-**Runner-Up Best Paper Awards**:
-- Pierre Le Coz, Jiaan Liu, Debarun Bhattacharjya, Georgina Curto, and Serge Stinckwich, "What Would an LLM Do? Evaluating Policymaking Capabilities of Large Language Models".
-- Jinju Kim, Haeji Jung, Youjeong Roh, Jong Hwan Ko, and David R. Mortensen, "Harnessing Linguistic Dissimilarity for Language Generalization on Unseen Low-Resource Varieties".
-
-## Best Poster Awards
-
-**Best Poster Award**: Filip Trhlík, Andrew Caines, and Paula Buttery, "Bias Dynamics in BabyLMs: Towards a Compute-Efficient Sandbox for Democratising Pre-Training Debiasing".
-
-**Runner-Up Best Poster Awards**: Davide Gabrielli, Simone Sestito, and Iacopo Masi, "Inverse Language Modeling towards Robust and Grounded LLMs".
-
-{{ new_block() }}
-
-# Accepted Papers
-
-## Oral Presentations
-
-{{ table(
-    data = "oral.csv", 
-    button_names = ["OpenReview"], 
-    button_data_columns = [3],
-    button_output_columns = [1]) }}
-
-## Poster Presentations
-
-### Session 1
-
-{{ table(
-    data = "poster_1.csv", 
-    button_names = ["OpenReview"], 
-    button_data_columns = [3],
-    button_output_columns = [1]) }}
-
-### Session 2
-
-{{ table(
-    data = "poster_2.csv", 
-    button_names = ["OpenReview"], 
-    button_data_columns = [3],
-    button_output_columns = [1]) }}
-
-### Session 3
-
-{{ table(
-    data = "poster_3.csv", 
-    button_names = ["OpenReview"], 
-    button_data_columns = [3],
-    button_output_columns = [1]) }}
+| Time          | Session                                                                 |
+|---------------|-------------------------------------------------------------------------|
+| 09:00 – 09:30 | Keynote 1: Prof. Preslav Nakov                                          |
+| 09:30 – 10:00 | Keynote 2: Prof. Iryna Gurevych                                         |
+| 10:00 – 10:30 | Coffee / Networking Break                                               |
+| 10:30 – 11:30 | Panel Discussion: Ensuring Trustworthiness of Agentic System in Global Deployment |
+| 11:30 – 12:00 | System Demonstrations                                                   |
+| 12:00 – 13:00 | Lunch Break                                                             |
+| 13:00 – 13:30 | Keynote 3: Dr. Andreas Haupt                                            |
+| 13:30 – 14:30 | Oral Presentations                                                      |
+| 14:30 – 15:00 | Coffee / Networking Break                                               |
+| 15:00 – 15:30 | Keynote 4: TBD                                                          |
+| 15:30 – 16:30 | Poster Session & Networking                                             |
+| 16:30 – 17:00 | Awards & Closing Remarks: Fred Phillip                                  |
 
 {{ new_block() }}

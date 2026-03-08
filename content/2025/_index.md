@@ -86,9 +86,9 @@ The *Proceedings of the 1st Workshop on Language Models for Underserved Communit
         ["Rifki Afina Putri", "KAIST"],
         ["Duc Nguyen", "VNU-HCMUT"],
         ["Angelina Wang", "Stanford"],
-        ["Daniel Ho", "Stanford"],
-        ["Alice Oh", "KAIST"],
-        ["Sanmi Koyejo", "Stanford"],
+        ["Prof. Daniel Ho", "Stanford"],
+        ["Prof. Alice Oh", "KAIST"],
+        ["Prof. Sanmi Koyejo", "Stanford"],
     ],
     urls = [
         "https://ai.stanford.edu/~sttruong/",
