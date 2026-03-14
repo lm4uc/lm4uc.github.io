@@ -1,9 +1,9 @@
 +++
 title = "Language Models for Underserved Communities"
 extra.tagline = "IJCAI 2026 Workshop"
-extra.subtitles = ["Bremen", "August 15-21, 2026"]
+extra.subtitles = ["Bremen, Germany", "August 15-21, 2026"]
 extra.buttons = [
-    {name="Submit Paper", url=""},
+    {name="Submit Paper", url="https://openreview.net/group?id=ijcai.org/IJCAI/2026/Workshop/LM4UC"},
     {name="Join Discord", url="https://discord.gg/wfwXhYUN2W"},
     {name="LM4UC@2025", url="/2025/"},
     {name="LM4UC@2026", url="/2026/"}
@@ -28,7 +28,7 @@ We invite submissions of full papers, ongoing work, position papers, and survey 
 
 * **Format:** We welcome **long papers** (8 pages) and **short papers** (4 pages), excluding references.
 * **Style:** Submissions must follow the official IJCAI 2026 style guidelines. 
-* **Where to Submit:** Submit your paper via OpenReview: *[TBD]*
+* **Where to Submit:** Submit your paper via [OpenReview](https://openreview.net/group?id=ijcai.org/IJCAI/2026/Workshop/LM4UC).
 
 ### Important Dates
 - **Submission deadline**: TBD
@@ -37,9 +37,6 @@ We invite submissions of full papers, ongoing work, position papers, and survey 
 - **Workshop dates**: August 15–17, 2026 (TBD)
 
 Please note that all the deadlines are 11:59PM in **AoE (Anywhere on Earth)** timezone.
-
-### Submission Link
-Papers should be submitted via [OpenReview](TBD).
 
 ## Contact Us
 
