@@ -31,7 +31,7 @@ We invite submissions of full papers, ongoing work, position papers, and survey 
 * **Where to Submit:** Submit your paper via [OpenReview](https://openreview.net/group?id=ijcai.org/IJCAI/2026/Workshop/LM4UC).
 
 ### Important Dates
-- **Submission deadline**: May 15, 2026
+- **Submission deadline**: <s>May 15, 2026</s> May 24, 2026
 - **Notification of acceptance**: June 7, 2026
 - **Camera-ready paper due**: July 1, 2026
 - **Workshop dates**: August 15–17, 2026 (TBD)
