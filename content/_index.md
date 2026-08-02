@@ -52,12 +52,12 @@ Alternatively, you can reach us via our [**Discord server**](https://discord.gg/
     text = [
         ["Prof. Preslav Nakov","MBZUAI"], 
         ["Prof. Iryna Gurevych","TU Darmstadt"],
-        ["Dr. Andreas Haupt","Stanford"]
+        <!-- ["Dr. Andreas Haupt","Stanford"] -->
     ],
     urls = [
         "https://mbzuai.ac.ae/study/faculty/preslav-nakov/",
         "https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp",
-        "https://www.andyhaupt.com/",
+        <!-- "https://www.andyhaupt.com/", -->
     ],
     image_dir = "organizers",
     narrow = true) }}
@@ -95,19 +95,35 @@ Alternatively, you can reach us via our [**Discord server**](https://discord.gg/
 
 # Schedule
 
-| Time          | Session                                                                 |
-|---------------|-------------------------------------------------------------------------|
-| 09:00 – 09:30 | Keynote 1: Prof. Preslav Nakov                                          |
-| 09:30 – 10:00 | Keynote 2: Prof. Iryna Gurevych                                         |
-| 10:00 – 10:30 | Coffee / Networking Break                                               |
-| 10:30 – 11:30 | Panel Discussion: Ensuring Trustworthiness of Agentic System in Global Deployment |
-| 11:30 – 12:00 | System Demonstrations                                                   |
-| 12:00 – 13:00 | Lunch Break                                                             |
-| 13:00 – 13:30 | Keynote 3: Dr. Andreas Haupt                                            |
-| 13:30 – 14:30 | Oral Presentations                                                      |
-| 14:30 – 15:00 | Coffee / Networking Break                                               |
-| 15:00 – 15:30 | Keynote 4: TBD                                                          |
-| 15:30 – 16:30 | Poster Session & Networking                                             |
-| 16:30 – 17:00 | Awards & Closing Remarks: Fred Phillip                                  |
+| Time | Session |
+|---|---|
+| 09h00-09h10 | Opening Remarks |
+| 09h10-09h50 | Keynote 1: Prof. Preslav Nakov |
+| 09h50-10h30 | Keynote 2: Prof. Iryna Gurevych |
+| 10h30-11h00 | Coffee Break |
+| 11h00-12h30 | Oral Presentations |
+| 12h30-14h00 | Lunch Break |
+| 14h00-15h15 | Oral Presentations |
+| 15h15-15h30 | Closing Remarks |
+| 15h30-16h00 | Coffee Break |
+| 16h00-17h00 | Poster Session |
+
+
+## Detailed Oral Presentations
+
+### 11h00-12h30 Session
+*   **Lost in Translation: Cross-Lingual Cultural Value Drift in Large Language Models Across South Asian Languages** — Simranjit Singh, Kumar Prateek, MOHIT SAIWAN
+*   **LLM Safety Alignment in Low-Resource Languages: A Systematic Literature Review** — LEMOFOUET VALDINI DOUGLACE, Sukairaj Hafiz Imam, Paula Chikaodinaka Anyanwu, Uzor Blessing Ngozi, Shamsuddeen Hassan Muhammad
+*   **IndicAGTD: A Prompt, Model, and Language-Aware Benchmark for Al-Generated Text Detection** — Suyash Sethia, Radhika Mamidi
+*   **Can LLMs Translate Palenquero? Evaluating Zero-Shot and Fine-Tuned Approaches for an Underrepresented Colombian Creole** — Daniel J. Casas
+*   **ViMedRob: A Robustness Benchmark for Vietnamese Medical Named Entity Recognition under Real-World Input Noise** — Minh T. Hua
+*   **When Labels Have Structure: Argument-Role Factorization for Low-Support Multilingual Argument Classification** — Toprak Seda Karaosmanoğlu
+
+### 14h00-15h15 Session
+*   **Bridging the Gap in Low-Resource OCR: The Viyavi Multi-Scale Series for Dhivehi** — ubaidhullah abdul hameed, Ahmed Zahir, Chiquan Chen
+*   **Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya** — Hailay Kidu Teklehaymanot, Wolfgang Nejdl
+*   **SAFA-Thera: Modeling Persistent Multi-Turn Risk in Child-Facing Safety Dialogue** — Tang chong, Zhiqi Zhang, Hongda Zhang, Wang Dongyu, Pengfei Li, Hao Xu
+*   **Measuring the Tokenization Premium: A Cost Audit for Underserved Language Communities** — Avijit Roy, Proma Roy, Hrishitva Patel
+*   **Accessible, but Not Adopted: Increasing LLM Adoption among First-gen, Low-income College Students beyond Expanding Access** — Hyungsik Kim
 
 {{ new_block() }}
