@@ -52,12 +52,10 @@ Alternatively, you can reach us via our [**Discord server**](https://discord.gg/
     text = [
         ["Prof. Preslav Nakov","MBZUAI"], 
         ["Prof. Iryna Gurevych","TU Darmstadt"],
-        <!-- ["Dr. Andreas Haupt","Stanford"] -->
     ],
     urls = [
         "https://mbzuai.ac.ae/study/faculty/preslav-nakov/",
         "https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp",
-        <!-- "https://www.andyhaupt.com/", -->
     ],
     image_dir = "organizers",
     narrow = true) }}
