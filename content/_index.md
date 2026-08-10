@@ -117,6 +117,7 @@ Alternatively, you can reach us via our [**Discord server**](https://discord.gg/
 *   **IndicAGTD: A Prompt, Model, and Language-Aware Benchmark for Al-Generated Text Detection** — Suyash Sethia, Radhika Mamidi
 *   **Can LLMs Translate Palenquero? Evaluating Zero-Shot and Fine-Tuned Approaches for an Underrepresented Colombian Creole** — Daniel J. Casas
 *   **Measuring the Tokenization Premium: A Cost Audit for Underserved Language Communities** — Avijit Roy, Proma Roy, Hrishitva Patel
+*   **ViMedRob: A Robustness Benchmark for Vietnamese Medical Named Entity Recognition under Real-World Input Noise** — Minh T. Hua
 *   **When Labels Have Structure: Argument-Role Factorization for Low-Support Multilingual Argument Classification** — Toprak Seda Karaosmanoğlu
 
 ### 14h45-15h15 Session
