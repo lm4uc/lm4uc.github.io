@@ -103,7 +103,7 @@ Alternatively, you can reach us via our [**Discord server**](https://discord.gg/
 | 11h00-12h30 | Oral Presentations |
 | 12h30-14h00 | Lunch Break |
 | 14h00-14h45 | Keynote 3: Prof. Ujwal Gadiraju |
-| 14h45-15h15 | Oral Presentations |
+| 14h45-15h30 | Oral Presentations |
 | 15h30-16h00 | Coffe Break |
 | 16h00-17h00 | Oral Presentations |
 | 17h00-17h30 | Poster Session |
@@ -119,9 +119,10 @@ Alternatively, you can reach us via our [**Discord server**](https://discord.gg/
 *   **ViMedRob: A Robustness Benchmark for Vietnamese Medical Named Entity Recognition under Real-World Input Noise** — Minh T. Hua
 *   **When Labels Have Structure: Argument-Role Factorization for Low-Support Multilingual Argument Classification** — Toprak Seda Karaosmanoğlu
 
-### 14h45-15h15 Session
+### 14h45-15h30 Session
 *   **Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya** — Hailay Kidu Teklehaymanot, Wolfgang Nejdl
 *   **Bridging the Gap in Low-Resource OCR: The Viyavi Multi-Scale Series for Dhivehi** — ubaidhullah abdul hameed, Ahmed Zahir, Chiquan Chen
+*   **Sakha-Judge: A Cross-Family Benchmark for LLM-as-a-Judge Reliability on a Category-0 Language** — Michil Egorov, Innokentiy S. Humonen, Ilya Makarov
 
 ### 16h00-17h00 Session
 *   **SAFA-Thera: Modeling Persistent Multi-Turn Risk in Child-Facing Safety Dialogue** — Tang chong, Zhiqi Zhang, Hongda Zhang, Wang Dongyu, Pengfei Li, Hao Xu
