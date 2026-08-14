@@ -105,9 +105,8 @@ Alternatively, you can reach us via our [**Discord server**](https://discord.gg/
 | 14h00-14h45 | Keynote 3: Prof. Ujwal Gadiraju |
 | 14h45-15h15 | Oral Presentations |
 | 15h30-16h00 | Coffe Break |
-| 16h00-16h45 | Oral Presentations |
-| 16h45-16h50 | Closing Remarks |
-| 16h50-17h30 | Poster Session |
+| 16h00-17h00 | Oral Presentations |
+| 17h00-17h30 | Poster Session |
 
 
 ## Detailed Oral Presentations
@@ -124,9 +123,10 @@ Alternatively, you can reach us via our [**Discord server**](https://discord.gg/
 *   **Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya** — Hailay Kidu Teklehaymanot, Wolfgang Nejdl
 *   **Bridging the Gap in Low-Resource OCR: The Viyavi Multi-Scale Series for Dhivehi** — ubaidhullah abdul hameed, Ahmed Zahir, Chiquan Chen
 
-### 16h00-16h45 Session
+### 16h00-17h00 Session
 *   **SAFA-Thera: Modeling Persistent Multi-Turn Risk in Child-Facing Safety Dialogue** — Tang chong, Zhiqi Zhang, Hongda Zhang, Wang Dongyu, Pengfei Li, Hao Xu
 *   **LLM Safety Alignment in Low-Resource Languages: A Systematic Literature Review** — LEMOFOUET VALDINI DOUGLACE, Sukairaj Hafiz Imam, Paula Chikaodinaka Anyanwu, Uzor Blessing Ngozi, Shamsuddeen Hassan Muhammad
 *   **Accessible, but Not Adopted: Increasing LLM Adoption among First-gen, Low-income College Students beyond Expanding Access** — Hyungsik Kim
+*   **Who Does “Safe” Mean Safe For? AILuminate and the Underserved Linguistic Community It Doesn’t Test** — Avinash Mehta, Manisha Mehta, Virendra Mehta
 
 {{ new_block() }}
